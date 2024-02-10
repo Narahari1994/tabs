@@ -1,6 +1,6 @@
-const url = 'https://course-api.com/react-tabs-project';
+const url = "https://course-api.com/react-tabs-project";
 
 const App = () => {
-  return <h2>Tabs Starter</h2>;
+  return <div>Tabs Starter</div>;
 };
 export default App;
